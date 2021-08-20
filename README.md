@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucascooelho, I'm a FIPP graduate, Presidente Prudente, and soon the founder of a personal project.
-- 👀 I’m interested in building/developing things
-- 🌱 I’m currently learning react/react-native
+- 👀 I’m interested in building/developing things.
+- 🌱 I’m currently learning react/react-native.
 - 💞️ I’m looking to collaborate on any project in .net/react/react-native/angular.
 - 📫 How to reach me lucascooelho@gmail.com
 
